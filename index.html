@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="images/oscar.png" type="image/x-icon">
+    <title>Best American Actors Map</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Roboto:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.6.3/nouislider.min.css" />
+</head>
+
+<body>
+    <h1 class="title">Birthplace of Oscar <span>Nominated</span> American Actors</h1>
+    <h2 id="yearRange">Time Interval: <span>1950 - 2018</span></h2>
+
+    <div id="container">
+
+        <div id="map">
+            <div id="canvas"></div>
+        </div>
+
+        <div id="description">
+            <div class="actor-options">
+                <span id="nominees" class="option selected">Nominees</span> |
+                <span id="winners" class="option">Winners</span>
+            </div>
+
+            <p>Choose a different time range:</p>
+            <div id="yearRangeSlider" class="slider"></div>
+
+            <p>Or select a specific year:</p>
+            <div id="yearSlider" class="slider"></div>
+
+            <div class="actor-card"></div>
+        </div>
+
+    </div>
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.6.3/nouislider.min.js"></script>
+
+    <script src="scripts/utils.js"></script>
+    <script src="scripts/index.js"></script>
+</body>
+
+</html>

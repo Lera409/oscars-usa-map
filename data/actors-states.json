@@ -1,0 +1,3740 @@
+[
+    {
+        "actor": "Frances McDormand",
+        "movie": "Three Billboards Outside Ebbing, Missouri",
+        "state": "Illinois",
+        "year": "2018",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "The Post",
+        "state": "New Jersey",
+        "year": "2018",
+        "status": "nominee"
+    },
+    {
+        "actor": "Saoirse Ronan",
+        "movie": "Lady Bird",
+        "state": "New York",
+        "year": "2018",
+        "status": "nominee"
+    },
+    {
+        "actor": "Timothée Chalamet",
+        "movie": "Call Me by Your Name",
+        "state": "New York",
+        "year": "2018",
+        "status": "nominee"
+    },
+    {
+        "actor": "Denzel Washington",
+        "movie": "Roman J. Israel, Esq.",
+        "state": "New York",
+        "year": "2018",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Florence Foster Jenkins",
+        "state": "New Jersey",
+        "year": "2017",
+        "status": "nominee"
+    },
+    {
+        "actor": "Andrew Garfield",
+        "movie": "Hacksaw Ridge",
+        "state": "California",
+        "year": "2017",
+        "status": "nominee"
+    },
+    {
+        "actor": "Emma Stone",
+        "movie": "La La Land",
+        "state": "Arizona",
+        "year": "2017",
+        "status": "nominee"
+    },
+    {
+        "actor": "Casey Affleck",
+        "movie": "Manchester by the Sea",
+        "state": "Massachusetts",
+        "year": "2017",
+        "status": "nominee"
+    },
+    {
+        "actor": "Viggo Mortensen",
+        "movie": "Captain Fantastic",
+        "state": "New York",
+        "year": "2017",
+        "status": "nominee"
+    },
+    {
+        "actor": "Denzel Washington",
+        "movie": "Fences",
+        "state": "New York",
+        "year": "2017",
+        "status": "nominee"
+    },
+    {
+        "actor": "Leonardo DiCaprio",
+        "movie": "The Revenant",
+        "state": "California",
+        "year": "2016",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bryan Cranston",
+        "movie": "Trumbo",
+        "state": "California",
+        "year": "2016",
+        "status": "nominee"
+    },
+    {
+        "actor": "Saoirse Ronan",
+        "movie": "Brooklyn",
+        "state": "New York",
+        "year": "2016",
+        "status": "nominee"
+    },
+    {
+        "actor": "Matt Damon",
+        "movie": "The Martian",
+        "state": "Massachusetts",
+        "year": "2016",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jennifer Lawrence",
+        "movie": "Joy",
+        "state": "Kentucky",
+        "year": "2016",
+        "status": "nominee"
+    },
+    {
+        "actor": "Brie Larson",
+        "movie": "Room",
+        "state": "California",
+        "year": "2016",
+        "status": "nominee"
+    },
+    {
+        "actor": "Steve Carell",
+        "movie": "Foxcatcher",
+        "state": "Massachusetts",
+        "year": "2015",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bradley Cooper",
+        "movie": "American Sniper",
+        "state": "Pennsylvania",
+        "year": "2015",
+        "status": "nominee"
+    },
+    {
+        "actor": "Michael Keaton",
+        "movie": "Birdman",
+        "state": "Pennsylvania",
+        "year": "2015",
+        "status": "nominee"
+    },
+    {
+        "actor": "Julianne Moore",
+        "movie": "Still Alice",
+        "state": "North Carolina",
+        "year": "2015",
+        "status": "nominee"
+    },
+    {
+        "actor": "Reese Witherspoon",
+        "movie": "Wild",
+        "state": "Louisiana",
+        "year": "2015",
+        "status": "nominee"
+    },
+    {
+        "actor": "Leonardo DiCaprio",
+        "movie": "The Wolf of Wall Street",
+        "state": "California",
+        "year": "2014",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "August: Osage County (film)",
+        "state": "New Jersey",
+        "year": "2014",
+        "status": "nominee"
+    },
+    {
+        "actor": "Matthew McConaughey",
+        "movie": "Dallas Buyers Club",
+        "state": "Texas",
+        "year": "2014",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sandra Bullock",
+        "movie": "Gravity",
+        "state": "Virginia",
+        "year": "2014",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bruce Dern",
+        "movie": "Nebraska",
+        "state": "Illinois",
+        "year": "2014",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bradley Cooper",
+        "movie": "Silver Linings Playbook",
+        "state": "Pennsylvania",
+        "year": "2013",
+        "status": "nominee"
+    },
+    {
+        "actor": "Quvenzhané Wallis",
+        "movie": "Beasts of the Southern Wild",
+        "state": "Louisiana",
+        "year": "2013",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jennifer Lawrence",
+        "movie": "Silver Linings Playbook",
+        "state": "Kentucky",
+        "year": "2013",
+        "status": "nominee"
+    },
+    {
+        "actor": "Denzel Washington",
+        "movie": "Flight",
+        "state": "New York",
+        "year": "2013",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jessica Chastain",
+        "movie": "Zero Dark Thirty",
+        "state": "California",
+        "year": "2013",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "The Iron Lady",
+        "state": "New Jersey",
+        "year": "2012",
+        "status": "nominee"
+    },
+    {
+        "actor": "Michelle Williams",
+        "movie": "My Week with Marilyn",
+        "state": "Montana",
+        "year": "2012",
+        "status": "nominee"
+    },
+    {
+        "actor": "Viola Davis",
+        "movie": "The Help",
+        "state": "South Carolina",
+        "year": "2012",
+        "status": "nominee"
+    },
+    {
+        "actor": "Glenn Close",
+        "movie": "Albert Nobbs",
+        "state": "Connecticut",
+        "year": "2012",
+        "status": "nominee"
+    },
+    {
+        "actor": "Brad Pitt",
+        "movie": "Moneyball",
+        "state": "Oklahoma",
+        "year": "2012",
+        "status": "nominee"
+    },
+    {
+        "actor": "George Clooney",
+        "movie": "The Descendants",
+        "state": "Kentucky",
+        "year": "2012",
+        "status": "nominee"
+    },
+    {
+        "actor": "Rooney Mara",
+        "movie": "The Girl with the Dragon Tattoo",
+        "state": "New York",
+        "year": "2012",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jeff Bridges",
+        "movie": "True Grit",
+        "state": "California",
+        "year": "2011",
+        "status": "nominee"
+    },
+    {
+        "actor": "Michelle Williams",
+        "movie": "Blue Valentine",
+        "state": "Montana",
+        "year": "2011",
+        "status": "nominee"
+    },
+    {
+        "actor": "Annette Bening",
+        "movie": "The Kids Are All Right",
+        "state": "Kansas",
+        "year": "2011",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jesse Eisenberg",
+        "movie": "The Social Network",
+        "state": "New York",
+        "year": "2011",
+        "status": "nominee"
+    },
+    {
+        "actor": "Nicole Kidman",
+        "movie": "Rabbit Hole",
+        "state": "Hawaii",
+        "year": "2011",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jennifer Lawrence",
+        "movie": "Winter's Bone",
+        "state": "Kentucky",
+        "year": "2011",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Franco",
+        "movie": "127 Hours",
+        "state": "California",
+        "year": "2011",
+        "status": "nominee"
+    },
+    {
+        "actor": "Morgan Freeman",
+        "movie": "Invictus",
+        "state": "Tennessee",
+        "year": "2010",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jeff Bridges",
+        "movie": "Crazy Heart",
+        "state": "California",
+        "year": "2010",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Julie & Julia",
+        "state": "New Jersey",
+        "year": "2010",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jeremy Renner",
+        "movie": "The Hurt Locker",
+        "state": "California",
+        "year": "2010",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gabourey Sidibe",
+        "movie": "Precious",
+        "state": "New York",
+        "year": "2010",
+        "status": "nominee"
+    },
+    {
+        "actor": "George Clooney",
+        "movie": "Up in the Air",
+        "state": "Kentucky",
+        "year": "2010",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sandra Bullock",
+        "movie": "The Blind Side",
+        "state": "Virginia",
+        "year": "2010",
+        "status": "nominee"
+    },
+    {
+        "actor": "Mickey Rourke",
+        "movie": "The Wrestler",
+        "state": "New York",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Angelina Jolie",
+        "movie": "Changeling",
+        "state": "California",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Doubt",
+        "state": "New Jersey",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Frank Langella",
+        "movie": "Frost/Nixon",
+        "state": "New Jersey",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anne Hathaway",
+        "movie": "Rachel Getting Married",
+        "state": "New York",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Brad Pitt",
+        "movie": "The Curious Case of Benjamin Button",
+        "state": "Oklahoma",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Richard Jenkins",
+        "movie": "The Visitor",
+        "state": "Illinois",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sean Penn",
+        "movie": "Milk",
+        "state": "California",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Melissa Leo",
+        "movie": "Frozen River",
+        "state": "New York",
+        "year": "2009",
+        "status": "nominee"
+    },
+    {
+        "actor": "Laura Linney",
+        "movie": "The Savages",
+        "state": "New York",
+        "year": "2008",
+        "status": "nominee"
+    },
+    {
+        "actor": "George Clooney",
+        "movie": "Michael Clayton",
+        "state": "Kentucky",
+        "year": "2008",
+        "status": "nominee"
+    },
+    {
+        "actor": "Johnny Depp",
+        "movie": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "state": "Kentucky",
+        "year": "2008",
+        "status": "nominee"
+    },
+    {
+        "actor": "Viggo Mortensen",
+        "movie": "Eastern Promises",
+        "state": "New York",
+        "year": "2008",
+        "status": "nominee"
+    },
+    {
+        "actor": "Tommy Lee Jones",
+        "movie": "In the Valley of Elah",
+        "state": "Texas",
+        "year": "2008",
+        "status": "nominee"
+    },
+    {
+        "actor": "Leonardo DiCaprio",
+        "movie": "Blood Diamond",
+        "state": "California",
+        "year": "2007",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "The Devil Wears Prada",
+        "state": "New Jersey",
+        "year": "2007",
+        "status": "nominee"
+    },
+    {
+        "actor": "Forest Whitaker",
+        "movie": "The Last King of Scotland",
+        "state": "Texas",
+        "year": "2007",
+        "status": "nominee"
+    },
+    {
+        "actor": "Will Smith",
+        "movie": "The Pursuit of Happyness",
+        "state": "Pennsylvania",
+        "year": "2007",
+        "status": "nominee"
+    },
+    {
+        "actor": "Philip Seymour Hoffman",
+        "movie": "Capote",
+        "state": "New York",
+        "year": "2006",
+        "status": "nominee"
+    },
+    {
+        "actor": "David Strathairn",
+        "movie": "Good Night, and Good Luck.",
+        "state": "California",
+        "year": "2006",
+        "status": "nominee"
+    },
+    {
+        "actor": "Felicity Huffman",
+        "movie": "Transamerica",
+        "state": "New York",
+        "year": "2006",
+        "status": "nominee"
+    },
+    {
+        "actor": "Reese Witherspoon",
+        "movie": "Walk the Line",
+        "state": "Louisiana",
+        "year": "2006",
+        "status": "nominee"
+    },
+    {
+        "actor": "Terrence Howard",
+        "movie": "Hustle & Flow",
+        "state": "Illinois",
+        "year": "2006",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jamie Foxx",
+        "movie": "Ray",
+        "state": "Texas",
+        "year": "2005",
+        "status": "nominee"
+    },
+    {
+        "actor": "Clint Eastwood",
+        "movie": "Million Dollar Baby",
+        "state": "California",
+        "year": "2005",
+        "status": "nominee"
+    },
+    {
+        "actor": "Leonardo DiCaprio",
+        "movie": "The Aviator",
+        "state": "California",
+        "year": "2005",
+        "status": "nominee"
+    },
+    {
+        "actor": "Annette Bening",
+        "movie": "Being Julia",
+        "state": "Kansas",
+        "year": "2005",
+        "status": "nominee"
+    },
+    {
+        "actor": "Johnny Depp",
+        "movie": "Finding Neverland",
+        "state": "Kentucky",
+        "year": "2005",
+        "status": "nominee"
+    },
+    {
+        "actor": "Don Cheadle",
+        "movie": "Hotel Rwanda",
+        "state": "Missouri",
+        "year": "2005",
+        "status": "nominee"
+    },
+    {
+        "actor": "Hilary Swank",
+        "movie": "Million Dollar Baby",
+        "state": "Nebraska",
+        "year": "2005",
+        "status": "nominee"
+    },
+    {
+        "actor": "Hilary Swank",
+        "movie": "Million Dollar Baby",
+        "state": "Washington",
+        "year": "2005",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bill Murray",
+        "movie": "Lost in Translation",
+        "state": "Illinois",
+        "year": "2004",
+        "status": "nominee"
+    },
+    {
+        "actor": "Johnny Depp",
+        "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "state": "Kentucky",
+        "year": "2004",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sean Penn",
+        "movie": "Mystic River",
+        "state": "California",
+        "year": "2004",
+        "status": "nominee"
+    },
+    {
+        "actor": "Diane Keaton",
+        "movie": "Something's Gotta Give",
+        "state": "California",
+        "year": "2004",
+        "status": "nominee"
+    },
+    {
+        "actor": "Nicolas Cage",
+        "movie": "Adaptation",
+        "state": "California",
+        "year": "2003",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "About Schmidt",
+        "state": "New Jersey",
+        "year": "2003",
+        "status": "nominee"
+    },
+    {
+        "actor": "Diane Lane",
+        "movie": "Unfaithful",
+        "state": "New York",
+        "year": "2003",
+        "status": "nominee"
+    },
+    {
+        "actor": "Adrien Brody",
+        "movie": "The Pianist",
+        "state": "New York",
+        "year": "2003",
+        "status": "nominee"
+    },
+    {
+        "actor": "Julianne Moore",
+        "movie": "Far from Heaven",
+        "state": "North Carolina",
+        "year": "2003",
+        "status": "nominee"
+    },
+    {
+        "actor": "Nicole Kidman",
+        "movie": "The Hours",
+        "state": "Hawaii",
+        "year": "2003",
+        "status": "nominee"
+    },
+    {
+        "actor": "Renée Zellweger",
+        "movie": "Chicago",
+        "state": "Texas",
+        "year": "2003",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sissy Spacek",
+        "movie": "In the Bedroom",
+        "state": "Texas",
+        "year": "2002",
+        "status": "nominee"
+    },
+    {
+        "actor": "Nicole Kidman",
+        "movie": "Moulin Rouge!",
+        "state": "Hawaii",
+        "year": "2002",
+        "status": "nominee"
+    },
+    {
+        "actor": "Halle Berry",
+        "movie": "Monster's Ball",
+        "state": "Ohio",
+        "year": "2002",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sean Penn",
+        "movie": "I Am Sam",
+        "state": "California",
+        "year": "2002",
+        "status": "nominee"
+    },
+    {
+        "actor": "Renée Zellweger",
+        "movie": "Bridget Jones's Diary",
+        "state": "Texas",
+        "year": "2002",
+        "status": "nominee"
+    },
+    {
+        "actor": "Denzel Washington",
+        "movie": "Training Day",
+        "state": "New York",
+        "year": "2002",
+        "status": "nominee"
+    },
+    {
+        "actor": "Will Smith",
+        "movie": "Ali",
+        "state": "Pennsylvania",
+        "year": "2002",
+        "status": "nominee"
+    },
+    {
+        "actor": "Tom Hanks",
+        "movie": "Cast Away",
+        "state": "California",
+        "year": "2001",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ellen Burstyn",
+        "movie": "Requiem for a Dream",
+        "state": "Michigan",
+        "year": "2001",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ed Harris",
+        "movie": "Pollock",
+        "state": "New Jersey",
+        "year": "2001",
+        "status": "nominee"
+    },
+    {
+        "actor": "Laura Linney",
+        "movie": "You Can Count on Me",
+        "state": "New York",
+        "year": "2001",
+        "status": "nominee"
+    },
+    {
+        "actor": "Joan Allen",
+        "movie": "The Contender",
+        "state": "Illinois",
+        "year": "2001",
+        "status": "nominee"
+    },
+    {
+        "actor": "Julia Roberts",
+        "movie": "Erin Brockovich",
+        "state": "Georgia",
+        "year": "2001",
+        "status": "nominee"
+    },
+    {
+        "actor": "Richard Farnsworth",
+        "movie": "The Straight Story",
+        "state": "California",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Kevin Spacey",
+        "movie": "American Beauty",
+        "state": "New Jersey",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Julianne Moore",
+        "movie": "The End of the Affair",
+        "state": "North Carolina",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Music of the Heart",
+        "state": "New Jersey",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Annette Bening",
+        "movie": "American Beauty",
+        "state": "Kansas",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sean Penn",
+        "movie": "Sweet and Lowdown",
+        "state": "California",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Hilary Swank",
+        "movie": "Boys Don't Cry",
+        "state": "Nebraska",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Hilary Swank",
+        "movie": "Boys Don't Cry",
+        "state": "Washington",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Denzel Washington",
+        "movie": "The Hurricane",
+        "state": "New York",
+        "year": "2000",
+        "status": "nominee"
+    },
+    {
+        "actor": "Edward Norton",
+        "movie": "American History X",
+        "state": "Massachusetts",
+        "year": "1999",
+        "status": "nominee"
+    },
+    {
+        "actor": "Tom Hanks",
+        "movie": "Saving Private Ryan",
+        "state": "California",
+        "year": "1999",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "One True Thing",
+        "state": "New Jersey",
+        "year": "1999",
+        "status": "nominee"
+    },
+    {
+        "actor": "Nick Nolte",
+        "movie": "Affliction",
+        "state": "Nebraska",
+        "year": "1999",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gwyneth Paltrow",
+        "movie": "Shakespeare in Love",
+        "state": "California",
+        "year": "1999",
+        "status": "nominee"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "Wag the Dog",
+        "state": "California",
+        "year": "1998",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "As Good as It Gets",
+        "state": "New Jersey",
+        "year": "1998",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert Duvall",
+        "movie": "The Apostle",
+        "state": "California",
+        "year": "1998",
+        "status": "nominee"
+    },
+    {
+        "actor": "Helen Hunt",
+        "movie": "As Good as It Gets",
+        "state": "California",
+        "year": "1998",
+        "status": "nominee"
+    },
+    {
+        "actor": "Matt Damon",
+        "movie": "Good Will Hunting",
+        "state": "Massachusetts",
+        "year": "1998",
+        "status": "nominee"
+    },
+    {
+        "actor": "Peter Fonda",
+        "movie": "Ulee's Gold",
+        "state": "New York",
+        "year": "1998",
+        "status": "nominee"
+    },
+    {
+        "actor": "Frances McDormand",
+        "movie": "Fargo",
+        "state": "Illinois",
+        "year": "1997",
+        "status": "nominee"
+    },
+    {
+        "actor": "Woody Harrelson",
+        "movie": "The People vs. Larry Flynt",
+        "state": "Texas",
+        "year": "1997",
+        "status": "nominee"
+    },
+    {
+        "actor": "Billy Bob Thornton",
+        "movie": "Sling Blade",
+        "state": "Arkansas",
+        "year": "1997",
+        "status": "nominee"
+    },
+    {
+        "actor": "Tom Cruise",
+        "movie": "Jerry Maguire",
+        "state": "New York",
+        "year": "1997",
+        "status": "nominee"
+    },
+    {
+        "actor": "Diane Keaton",
+        "movie": "Marvin's Room",
+        "state": "California",
+        "year": "1997",
+        "status": "nominee"
+    },
+    {
+        "actor": "Nicolas Cage",
+        "movie": "Leaving Las Vegas",
+        "state": "California",
+        "year": "1996",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "The Bridges of Madison County",
+        "state": "New Jersey",
+        "year": "1996",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sean Penn",
+        "movie": "Dead Man Walking",
+        "state": "California",
+        "year": "1996",
+        "status": "nominee"
+    },
+    {
+        "actor": "Richard Dreyfuss",
+        "movie": "Mr. Holland's Opus",
+        "state": "New York",
+        "year": "1996",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sharon Stone",
+        "movie": "Casino",
+        "state": "Pennsylvania",
+        "year": "1996",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Sarandon",
+        "movie": "Dead Man Walking",
+        "state": "New York",
+        "year": "1996",
+        "status": "nominee"
+    },
+    {
+        "actor": "Elisabeth Shue",
+        "movie": "Leaving Las Vegas",
+        "state": "Delaware",
+        "year": "1996",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jodie Foster",
+        "movie": "Nell",
+        "state": "California",
+        "year": "1995",
+        "status": "nominee"
+    },
+    {
+        "actor": "Morgan Freeman",
+        "movie": "The Shawshank Redemption",
+        "state": "Tennessee",
+        "year": "1995",
+        "status": "nominee"
+    },
+    {
+        "actor": "Winona Ryder",
+        "movie": "Little Women",
+        "state": "Minnesota",
+        "year": "1995",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "Nobody's Fool",
+        "state": "Ohio",
+        "year": "1995",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jessica Lange",
+        "movie": "Blue Sky",
+        "state": "Minnesota",
+        "year": "1995",
+        "status": "nominee"
+    },
+    {
+        "actor": "John Travolta",
+        "movie": "Pulp Fiction",
+        "state": "New Jersey",
+        "year": "1995",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Sarandon",
+        "movie": "The Client",
+        "state": "New York",
+        "year": "1995",
+        "status": "nominee"
+    },
+    {
+        "actor": "Holly Hunter",
+        "movie": "The Piano",
+        "state": "Georgia",
+        "year": "1994",
+        "status": "nominee"
+    },
+    {
+        "actor": "Laurence Fishburne",
+        "movie": "What's Love Got to Do with It",
+        "state": "Georgia",
+        "year": "1994",
+        "status": "nominee"
+    },
+    {
+        "actor": "Stockard Channing",
+        "movie": "Six Degrees of Separation",
+        "state": "New York",
+        "year": "1994",
+        "status": "nominee"
+    },
+    {
+        "actor": "Angela Bassett",
+        "movie": "What's Love Got to Do with It",
+        "state": "New York",
+        "year": "1994",
+        "status": "nominee"
+    },
+    {
+        "actor": "Debra Winger",
+        "movie": "Shadowlands",
+        "state": "Ohio",
+        "year": "1994",
+        "status": "nominee"
+    },
+    {
+        "actor": "Clint Eastwood",
+        "movie": "Unforgiven",
+        "state": "California",
+        "year": "1993",
+        "status": "nominee"
+    },
+    {
+        "actor": "Michelle Pfeiffer",
+        "movie": "Love Field",
+        "state": "California",
+        "year": "1993",
+        "status": "nominee"
+    },
+    {
+        "actor": "Al Pacino",
+        "movie": "Scent of a Woman",
+        "state": "New York",
+        "year": "1993",
+        "status": "nominee"
+    },
+    {
+        "actor": "Mary McDonnell",
+        "movie": "Passion Fish",
+        "state": "Pennsylvania",
+        "year": "1993",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert Downey Jr.",
+        "movie": "Chaplin",
+        "state": "New York",
+        "year": "1993",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Sarandon",
+        "movie": "Lorenzo's Oil",
+        "state": "New York",
+        "year": "1993",
+        "status": "nominee"
+    },
+    {
+        "actor": "Denzel Washington",
+        "movie": "Malcolm X",
+        "state": "New York",
+        "year": "1993",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bette Midler",
+        "movie": "For the Boys",
+        "state": "Hawaii",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robin Williams",
+        "movie": "The Fisher King",
+        "state": "Illinois",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jodie Foster",
+        "movie": "The Silence of the Lambs",
+        "state": "California",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Nick Nolte",
+        "movie": "The Prince of Tides",
+        "state": "Nebraska",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert De Niro",
+        "movie": "Cape Fear",
+        "state": "New York",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Warren Beatty",
+        "movie": "Bugsy",
+        "state": "Virginia",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Laura Dern",
+        "movie": "Rambling Rose",
+        "state": "California",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Geena Davis",
+        "movie": "Thelma & Louise",
+        "state": "Massachusetts",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Sarandon",
+        "movie": "Thelma & Louise",
+        "state": "New York",
+        "year": "1992",
+        "status": "nominee"
+    },
+    {
+        "actor": "Kathy Bates",
+        "movie": "Misery",
+        "state": "Tennessee",
+        "year": "1991",
+        "status": "nominee"
+    },
+    {
+        "actor": "Julia Roberts",
+        "movie": "Pretty Woman",
+        "state": "Georgia",
+        "year": "1991",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anjelica Huston",
+        "movie": "The Grifters",
+        "state": "California",
+        "year": "1991",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Postcards from the Edge",
+        "state": "New Jersey",
+        "year": "1991",
+        "status": "nominee"
+    },
+    {
+        "actor": "Joanne Woodward",
+        "movie": "Mr. and Mrs. Bridge",
+        "state": "Georgia",
+        "year": "1991",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert De Niro",
+        "movie": "Awakenings",
+        "state": "New York",
+        "year": "1991",
+        "status": "nominee"
+    },
+    {
+        "actor": "Kevin Costner",
+        "movie": "Dances with Wolves",
+        "state": "California",
+        "year": "1991",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robin Williams",
+        "movie": "Dead Poets Society",
+        "state": "Illinois",
+        "year": "1990",
+        "status": "nominee"
+    },
+    {
+        "actor": "Morgan Freeman",
+        "movie": "Driving Miss Daisy",
+        "state": "Tennessee",
+        "year": "1990",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jessica Lange",
+        "movie": "Music Box",
+        "state": "Minnesota",
+        "year": "1990",
+        "status": "nominee"
+    },
+    {
+        "actor": "Michelle Pfeiffer",
+        "movie": "The Fabulous Baker Boys",
+        "state": "California",
+        "year": "1990",
+        "status": "nominee"
+    },
+    {
+        "actor": "Tom Cruise",
+        "movie": "Born on the Fourth of July",
+        "state": "New York",
+        "year": "1990",
+        "status": "nominee"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "Rain Man",
+        "state": "California",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jodie Foster",
+        "movie": "The Accused",
+        "state": "California",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Evil Angels",
+        "state": "New Jersey",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Tom Hanks",
+        "movie": "Big",
+        "state": "California",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sigourney Weaver",
+        "movie": "Gorillas in the Mist",
+        "state": "New York",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Glenn Close",
+        "movie": "Dangerous Liaisons",
+        "state": "Connecticut",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Melanie Griffith",
+        "movie": "Working Girl",
+        "state": "New York",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Edward James Olmos",
+        "movie": "Stand and Deliver",
+        "state": "California",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gene Hackman",
+        "movie": "Mississippi Burning",
+        "state": "California",
+        "year": "1989",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Ironweed",
+        "state": "New Jersey",
+        "year": "1988",
+        "status": "nominee"
+    },
+    {
+        "actor": "Holly Hunter",
+        "movie": "Broadcast News",
+        "state": "Georgia",
+        "year": "1988",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robin Williams",
+        "movie": "Good Morning, Vietnam",
+        "state": "Illinois",
+        "year": "1988",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "Ironweed",
+        "state": "New Jersey",
+        "year": "1988",
+        "status": "nominee"
+    },
+    {
+        "actor": "Cher",
+        "movie": "Moonstruck",
+        "state": "California",
+        "year": "1988",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sally Kirkland",
+        "movie": "Anna",
+        "state": "New York",
+        "year": "1988",
+        "status": "nominee"
+    },
+    {
+        "actor": "Glenn Close",
+        "movie": "Fatal Attraction",
+        "state": "Connecticut",
+        "year": "1988",
+        "status": "nominee"
+    },
+    {
+        "actor": "Michael Douglas",
+        "movie": "Wall Street",
+        "state": "New Jersey",
+        "year": "1988",
+        "status": "nominee"
+    },
+    {
+        "actor": "Kathleen Turner",
+        "movie": "Peggy Sue Got Married",
+        "state": "Missouri",
+        "year": "1987",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sissy Spacek",
+        "movie": "Crimes of the Heart",
+        "state": "Texas",
+        "year": "1987",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sigourney Weaver",
+        "movie": "Aliens",
+        "state": "New York",
+        "year": "1987",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Fonda",
+        "movie": "The Morning After",
+        "state": "New York",
+        "year": "1987",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "The Color of Money",
+        "state": "Ohio",
+        "year": "1987",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marlee Matlin",
+        "movie": "Children of a Lesser God",
+        "state": "Illinois",
+        "year": "1987",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Woods",
+        "movie": "Salvador",
+        "state": "Utah",
+        "year": "1987",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anne Bancroft",
+        "movie": "Agnes of God",
+        "state": "New York",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "Whoopi Goldberg",
+        "movie": "The Color Purple",
+        "state": "New York",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Out of Africa",
+        "state": "New Jersey",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jon Voight",
+        "movie": "Runaway Train",
+        "state": "New York",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "Prizzi's Honor",
+        "state": "New Jersey",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "Harrison Ford",
+        "movie": "Witness",
+        "state": "Illinois",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "Geraldine Page",
+        "movie": "The Trip to Bountiful",
+        "state": "Missouri",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jessica Lange",
+        "movie": "Sweet Dreams",
+        "state": "Minnesota",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Garner",
+        "movie": "Murphy's Romance",
+        "state": "Oklahoma",
+        "year": "1986",
+        "status": "nominee"
+    },
+    {
+        "actor": "F. Murray Abraham",
+        "movie": "Amadeus",
+        "state": "Pennsylvania",
+        "year": "1985",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sissy Spacek",
+        "movie": "The River",
+        "state": "Texas",
+        "year": "1985",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jeff Bridges",
+        "movie": "Starman",
+        "state": "California",
+        "year": "1985",
+        "status": "nominee"
+    },
+    {
+        "actor": "Tom Hulce",
+        "movie": "Amadeus",
+        "state": "Michigan",
+        "year": "1985",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jessica Lange",
+        "movie": "Country",
+        "state": "Minnesota",
+        "year": "1985",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sally Field",
+        "movie": "Places in the Heart",
+        "state": "California",
+        "year": "1985",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sam Waterston",
+        "movie": "The Killing Fields",
+        "state": "Massachusetts",
+        "year": "1985",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert Duvall",
+        "movie": "Tender Mercies",
+        "state": "California",
+        "year": "1984",
+        "status": "nominee"
+    },
+    {
+        "actor": "Shirley MacLaine",
+        "movie": "Terms of Endearment",
+        "state": "Virginia",
+        "year": "1984",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Silkwood",
+        "state": "New Jersey",
+        "year": "1984",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Alexander",
+        "movie": "Testament",
+        "state": "Massachusetts",
+        "year": "1984",
+        "status": "nominee"
+    },
+    {
+        "actor": "Debra Winger",
+        "movie": "Terms of Endearment",
+        "state": "Ohio",
+        "year": "1984",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Lemmon",
+        "movie": "Missing",
+        "state": "Massachusetts",
+        "year": "1983",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sissy Spacek",
+        "movie": "Missing",
+        "state": "Texas",
+        "year": "1983",
+        "status": "nominee"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "Tootsie",
+        "state": "California",
+        "year": "1983",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Sophie's Choice",
+        "state": "New Jersey",
+        "year": "1983",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "The Verdict",
+        "state": "Ohio",
+        "year": "1983",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jessica Lange",
+        "movie": "Frances",
+        "state": "Minnesota",
+        "year": "1983",
+        "status": "nominee"
+    },
+    {
+        "actor": "Debra Winger",
+        "movie": "An Officer and a Gentleman",
+        "state": "Ohio",
+        "year": "1983",
+        "status": "nominee"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "The French Lieutenant's Woman",
+        "state": "New Jersey",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Henry Fonda",
+        "movie": "On Golden Pond",
+        "state": "Nebraska",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "On Golden Pond",
+        "state": "Connecticut",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marsha Mason",
+        "movie": "Only When I Laugh",
+        "state": "Missouri",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "Absence of Malice",
+        "state": "Ohio",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Burt Lancaster",
+        "movie": "Atlantic City",
+        "state": "New York",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Warren Beatty",
+        "movie": "Reds",
+        "state": "Virginia",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Sarandon",
+        "movie": "Atlantic City",
+        "state": "New York",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Diane Keaton",
+        "movie": "Reds",
+        "state": "California",
+        "year": "1982",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Lemmon",
+        "movie": "Tribute",
+        "state": "Massachusetts",
+        "year": "1981",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ellen Burstyn",
+        "movie": "Resurrection",
+        "state": "Michigan",
+        "year": "1981",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sissy Spacek",
+        "movie": "Coal Miner's Daughter",
+        "state": "Texas",
+        "year": "1981",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert Duvall",
+        "movie": "The Great Santini",
+        "state": "California",
+        "year": "1981",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gena Rowlands",
+        "movie": "Gloria",
+        "state": "Wisconsin",
+        "year": "1981",
+        "status": "nominee"
+    },
+    {
+        "actor": "Mary Tyler Moore",
+        "movie": "Ordinary People",
+        "state": "New York",
+        "year": "1981",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert De Niro",
+        "movie": "Raging Bull",
+        "state": "New York",
+        "year": "1981",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bette Midler",
+        "movie": "The Rose",
+        "state": "Hawaii",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Lemmon",
+        "movie": "The China Syndrome",
+        "state": "Massachusetts",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sally Field",
+        "movie": "Norma Rae",
+        "state": "California",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "Kramer vs. Kramer",
+        "state": "California",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jill Clayburgh",
+        "movie": "Starting Over",
+        "state": "New York",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Al Pacino",
+        "movie": "...And Justice for All",
+        "state": "New York",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marsha Mason",
+        "movie": "Chapter Two",
+        "state": "Missouri",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Fonda",
+        "movie": "The China Syndrome",
+        "state": "New York",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Roy Scheider",
+        "movie": "All That Jazz",
+        "state": "New Jersey",
+        "year": "1980",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jon Voight",
+        "movie": "Coming Home",
+        "state": "New York",
+        "year": "1979",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ellen Burstyn",
+        "movie": "Same Time, Next Year",
+        "state": "Michigan",
+        "year": "1979",
+        "status": "nominee"
+    },
+    {
+        "actor": "Geraldine Page",
+        "movie": "Interiors",
+        "state": "Missouri",
+        "year": "1979",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jill Clayburgh",
+        "movie": "An Unmarried Woman",
+        "state": "New York",
+        "year": "1979",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gary Busey",
+        "movie": "The Buddy Holly Story",
+        "state": "Texas",
+        "year": "1979",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Fonda",
+        "movie": "Coming Home",
+        "state": "New York",
+        "year": "1979",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert De Niro",
+        "movie": "The Deer Hunter",
+        "state": "New York",
+        "year": "1979",
+        "status": "nominee"
+    },
+    {
+        "actor": "Warren Beatty",
+        "movie": "Heaven Can Wait",
+        "state": "Virginia",
+        "year": "1979",
+        "status": "nominee"
+    },
+    {
+        "actor": "Woody Allen",
+        "movie": "Annie Hall",
+        "state": "New York",
+        "year": "1978",
+        "status": "nominee"
+    },
+    {
+        "actor": "John Travolta",
+        "movie": "Saturday Night Fever",
+        "state": "New Jersey",
+        "year": "1978",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anne Bancroft",
+        "movie": "The Turning Point",
+        "state": "New York",
+        "year": "1978",
+        "status": "nominee"
+    },
+    {
+        "actor": "Shirley MacLaine",
+        "movie": "The Turning Point",
+        "state": "Virginia",
+        "year": "1978",
+        "status": "nominee"
+    },
+    {
+        "actor": "Richard Dreyfuss",
+        "movie": "The Goodbye Girl",
+        "state": "New York",
+        "year": "1978",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marsha Mason",
+        "movie": "The Goodbye Girl",
+        "state": "Missouri",
+        "year": "1978",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Fonda",
+        "movie": "Julia",
+        "state": "New York",
+        "year": "1978",
+        "status": "nominee"
+    },
+    {
+        "actor": "Diane Keaton",
+        "movie": "Annie Hall",
+        "state": "California",
+        "year": "1978",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sissy Spacek",
+        "movie": "Carrie",
+        "state": "Texas",
+        "year": "1977",
+        "status": "nominee"
+    },
+    {
+        "actor": "Faye Dunaway",
+        "movie": "Network",
+        "state": "Florida",
+        "year": "1977",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert De Niro",
+        "movie": "Taxi Driver",
+        "state": "New York",
+        "year": "1977",
+        "status": "nominee"
+    },
+    {
+        "actor": "William Holden",
+        "movie": "Network",
+        "state": "Illinois",
+        "year": "1977",
+        "status": "nominee"
+    },
+    {
+        "actor": "Talia Shire",
+        "movie": "Rocky",
+        "state": "New York",
+        "year": "1977",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sylvester Stallone",
+        "movie": "Rocky",
+        "state": "New York",
+        "year": "1977",
+        "status": "nominee"
+    },
+    {
+        "actor": "Walter Matthau",
+        "movie": "The Sunshine Boys",
+        "state": "New York",
+        "year": "1976",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "One Flew Over the Cuckoo's Nest",
+        "state": "New Jersey",
+        "year": "1976",
+        "status": "nominee"
+    },
+    {
+        "actor": "Carol Kane",
+        "movie": "Hester Street",
+        "state": "Ohio",
+        "year": "1976",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Whitmore",
+        "movie": "Give 'em Hell",
+        "state": "New York",
+        "year": "1976",
+        "status": "nominee"
+    },
+    {
+        "actor": "Al Pacino",
+        "movie": "Dog Day Afternoon",
+        "state": "New York",
+        "year": "1976",
+        "status": "nominee"
+    },
+    {
+        "actor": "Louise Fletcher",
+        "movie": "One Flew Over the Cuckoo's Nest",
+        "state": "Alabama",
+        "year": "1976",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "Chinatown",
+        "state": "New Jersey",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ellen Burstyn",
+        "movie": "Alice Doesn't Live Here Anymore",
+        "state": "Michigan",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gena Rowlands",
+        "movie": "A Woman Under the Influence",
+        "state": "Wisconsin",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Faye Dunaway",
+        "movie": "Chinatown",
+        "state": "Florida",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "Lenny",
+        "state": "California",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Art Carney",
+        "movie": "Harry and Tonto",
+        "state": "New York",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Diahann Carroll",
+        "movie": "Claudine",
+        "state": "New York",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Al Pacino",
+        "movie": "The Godfather Part II",
+        "state": "New York",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Valerie Perrine",
+        "movie": "Lenny",
+        "state": "Texas",
+        "year": "1975",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Lemmon",
+        "movie": "Save the Tiger",
+        "state": "Massachusetts",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "The Last Detail",
+        "state": "New Jersey",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ellen Burstyn",
+        "movie": "The Exorcist",
+        "state": "Michigan",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Al Pacino",
+        "movie": "Serpico",
+        "state": "New York",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marsha Mason",
+        "movie": "Cinderella Liberty",
+        "state": "Missouri",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Barbra Streisand",
+        "movie": "The Way We Were",
+        "state": "New York",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Joanne Woodward",
+        "movie": "Summer Wishes, Winter Dreams",
+        "state": "Georgia",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marlon Brando",
+        "movie": "Last Tango in Paris",
+        "state": "Nebraska",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Robert Redford",
+        "movie": "The Sting",
+        "state": "California",
+        "year": "1974",
+        "status": "nominee"
+    },
+    {
+        "actor": "Cicely Tyson",
+        "movie": "Sounder",
+        "state": "New York",
+        "year": "1973",
+        "status": "nominee"
+    },
+    {
+        "actor": "Liza Minnelli",
+        "movie": "Cabaret",
+        "state": "California",
+        "year": "1973",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marlon Brando",
+        "movie": "The Godfather",
+        "state": "Nebraska",
+        "year": "1973",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Winfield",
+        "movie": "Sounder",
+        "state": "California",
+        "year": "1973",
+        "status": "nominee"
+    },
+    {
+        "actor": "Diana Ross",
+        "movie": "Lady Sings the Blues",
+        "state": "Michigan",
+        "year": "1973",
+        "status": "nominee"
+    },
+    {
+        "actor": "Walter Matthau",
+        "movie": "Kotch",
+        "state": "New York",
+        "year": "1972",
+        "status": "nominee"
+    },
+    {
+        "actor": "George C. Scott",
+        "movie": "The Hospital",
+        "state": "Virginia",
+        "year": "1972",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Fonda",
+        "movie": "Klute",
+        "state": "New York",
+        "year": "1972",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gene Hackman",
+        "movie": "The French Connection",
+        "state": "California",
+        "year": "1972",
+        "status": "nominee"
+    },
+    {
+        "actor": "George C. Scott",
+        "movie": "Patton",
+        "state": "Virginia",
+        "year": "1971",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "Five Easy Pieces",
+        "state": "New Jersey",
+        "year": "1971",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Alexander",
+        "movie": "The Great White Hope",
+        "state": "Massachusetts",
+        "year": "1971",
+        "status": "nominee"
+    },
+    {
+        "actor": "Melvyn Douglas",
+        "movie": "I Never Sang for My Father",
+        "state": "Georgia",
+        "year": "1971",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Earl Jones",
+        "movie": "The Great White Hope",
+        "state": "Mississippi",
+        "year": "1971",
+        "status": "nominee"
+    },
+    {
+        "actor": "Carrie Snodgress",
+        "movie": "Diary of a Mad Housewife",
+        "state": "Illinois",
+        "year": "1971",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ryan O'Neal",
+        "movie": "Love Story",
+        "state": "California",
+        "year": "1971",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ali MacGraw",
+        "movie": "Love Story",
+        "state": "New York",
+        "year": "1971",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jon Voight",
+        "movie": "Midnight Cowboy",
+        "state": "New York",
+        "year": "1970",
+        "status": "nominee"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "Midnight Cowboy",
+        "state": "California",
+        "year": "1970",
+        "status": "nominee"
+    },
+    {
+        "actor": "Liza Minnelli",
+        "movie": "The Sterile Cuckoo",
+        "state": "California",
+        "year": "1970",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Fonda",
+        "movie": "They Shoot Horses, Don't They?",
+        "state": "New York",
+        "year": "1970",
+        "status": "nominee"
+    },
+    {
+        "actor": "John Wayne",
+        "movie": "True Grit",
+        "state": "Iowa",
+        "year": "1970",
+        "status": "nominee"
+    },
+    {
+        "actor": "Alan Arkin",
+        "movie": "The Heart is a Lonely Hunter",
+        "state": "New York",
+        "year": "1969",
+        "status": "nominee"
+    },
+    {
+        "actor": "Cliff Robertson",
+        "movie": "Charly",
+        "state": "California",
+        "year": "1969",
+        "status": "nominee"
+    },
+    {
+        "actor": "Patricia Neal",
+        "movie": "The Subject Was Roses",
+        "state": "Kentucky",
+        "year": "1969",
+        "status": "nominee"
+    },
+    {
+        "actor": "Joanne Woodward",
+        "movie": "Rachel, Rachel",
+        "state": "Georgia",
+        "year": "1969",
+        "status": "nominee"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "The Lion in Winter",
+        "state": "Connecticut",
+        "year": "1969",
+        "status": "nominee"
+    },
+    {
+        "actor": "Barbra Streisand",
+        "movie": "Funny Girl",
+        "state": "New York",
+        "year": "1969",
+        "status": "nominee"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "The Graduate",
+        "state": "California",
+        "year": "1968",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anne Bancroft",
+        "movie": "The Graduate",
+        "state": "New York",
+        "year": "1968",
+        "status": "nominee"
+    },
+    {
+        "actor": "Spencer Tracy",
+        "movie": "Guess Who's Coming to Dinner",
+        "state": "Wisconsin",
+        "year": "1968",
+        "status": "nominee"
+    },
+    {
+        "actor": "Faye Dunaway",
+        "movie": "Bonnie and Clyde",
+        "state": "Florida",
+        "year": "1968",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "Cool Hand Luke",
+        "state": "Ohio",
+        "year": "1968",
+        "status": "nominee"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "Guess Who's Coming to Dinner",
+        "state": "Connecticut",
+        "year": "1968",
+        "status": "nominee"
+    },
+    {
+        "actor": "Rod Steiger",
+        "movie": "In the Heat of the Night",
+        "state": "New York",
+        "year": "1968",
+        "status": "nominee"
+    },
+    {
+        "actor": "Warren Beatty",
+        "movie": "Bonnie and Clyde",
+        "state": "Virginia",
+        "year": "1968",
+        "status": "nominee"
+    },
+    {
+        "actor": "Alan Arkin",
+        "movie": "The Russians Are Coming, the Russians Are Coming",
+        "state": "New York",
+        "year": "1967",
+        "status": "nominee"
+    },
+    {
+        "actor": "Steve McQueen",
+        "movie": "The Sand Pebbles",
+        "state": "Indiana",
+        "year": "1967",
+        "status": "nominee"
+    },
+    {
+        "actor": "Lee Marvin",
+        "movie": "Cat Ballou",
+        "state": "New York",
+        "year": "1966",
+        "status": "nominee"
+    },
+    {
+        "actor": "Elizabeth Hartman",
+        "movie": "A Patch of Blue",
+        "state": "Ohio",
+        "year": "1966",
+        "status": "nominee"
+    },
+    {
+        "actor": "Rod Steiger",
+        "movie": "The Pawnbroker",
+        "state": "New York",
+        "year": "1966",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anne Bancroft",
+        "movie": "The Pumpkin Eater",
+        "state": "New York",
+        "year": "1965",
+        "status": "nominee"
+    },
+    {
+        "actor": "Debbie Reynolds",
+        "movie": "The Unsinkable Molly Brown",
+        "state": "Texas",
+        "year": "1965",
+        "status": "nominee"
+    },
+    {
+        "actor": "Kim Stanley",
+        "movie": "Séance on a Wet Afternoon",
+        "state": "New Mexico",
+        "year": "1965",
+        "status": "nominee"
+    },
+    {
+        "actor": "Patricia Neal",
+        "movie": "Hud",
+        "state": "Kentucky",
+        "year": "1964",
+        "status": "nominee"
+    },
+    {
+        "actor": "Shirley MacLaine",
+        "movie": "Irma la Douce",
+        "state": "Virginia",
+        "year": "1964",
+        "status": "nominee"
+    },
+    {
+        "actor": "Natalie Wood",
+        "movie": "Love with the Proper Stranger",
+        "state": "California",
+        "year": "1964",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sidney Poitier",
+        "movie": "Lilies of the Field",
+        "state": "Florida",
+        "year": "1964",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "Hud",
+        "state": "Ohio",
+        "year": "1964",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Lemmon",
+        "movie": "Days of Wine and Roses",
+        "state": "Massachusetts",
+        "year": "1963",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gregory Peck",
+        "movie": "To Kill a Mockingbird",
+        "state": "California",
+        "year": "1963",
+        "status": "nominee"
+    },
+    {
+        "actor": "Lee Remick",
+        "movie": "Days of Wine and Roses",
+        "state": "Massachusetts",
+        "year": "1963",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anne Bancroft",
+        "movie": "The Miracle Worker",
+        "state": "New York",
+        "year": "1963",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bette Davis",
+        "movie": "What Ever Happened to Baby Jane?",
+        "state": "Massachusetts",
+        "year": "1963",
+        "status": "nominee"
+    },
+    {
+        "actor": "Geraldine Page",
+        "movie": "Sweet Bird of Youth",
+        "state": "Missouri",
+        "year": "1963",
+        "status": "nominee"
+    },
+    {
+        "actor": "Burt Lancaster",
+        "movie": "Birdman of Alcatraz",
+        "state": "New York",
+        "year": "1963",
+        "status": "nominee"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "Long Day's Journey into Night",
+        "state": "Connecticut",
+        "year": "1963",
+        "status": "nominee"
+    },
+    {
+        "actor": "Spencer Tracy",
+        "movie": "Judgment at Nuremberg",
+        "state": "Wisconsin",
+        "year": "1962",
+        "status": "nominee"
+    },
+    {
+        "actor": "Natalie Wood",
+        "movie": "Splendor in the Grass",
+        "state": "California",
+        "year": "1962",
+        "status": "nominee"
+    },
+    {
+        "actor": "Geraldine Page",
+        "movie": "Summer and Smoke",
+        "state": "Missouri",
+        "year": "1962",
+        "status": "nominee"
+    },
+    {
+        "actor": "Piper Laurie",
+        "movie": "The Hustler",
+        "state": "Michigan",
+        "year": "1962",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "The Hustler",
+        "state": "Ohio",
+        "year": "1962",
+        "status": "nominee"
+    },
+    {
+        "actor": "Stuart Whitman",
+        "movie": "The Mark",
+        "state": "California",
+        "year": "1962",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Lemmon",
+        "movie": "The Apartment",
+        "state": "Massachusetts",
+        "year": "1961",
+        "status": "nominee"
+    },
+    {
+        "actor": "Spencer Tracy",
+        "movie": "Inherit the Wind",
+        "state": "Wisconsin",
+        "year": "1961",
+        "status": "nominee"
+    },
+    {
+        "actor": "Shirley MacLaine",
+        "movie": "The Apartment",
+        "state": "Virginia",
+        "year": "1961",
+        "status": "nominee"
+    },
+    {
+        "actor": "Burt Lancaster",
+        "movie": "Elmer Gantry",
+        "state": "New York",
+        "year": "1961",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jack Lemmon",
+        "movie": "Some Like It Hot",
+        "state": "Massachusetts",
+        "year": "1960",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Stewart",
+        "movie": "Anatomy of a Murder",
+        "state": "Pennsylvania",
+        "year": "1960",
+        "status": "nominee"
+    },
+    {
+        "actor": "Charlton Heston",
+        "movie": "Ben-Hur",
+        "state": "Illinois",
+        "year": "1960",
+        "status": "nominee"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "Suddenly, Last Summer",
+        "state": "Connecticut",
+        "year": "1960",
+        "status": "nominee"
+    },
+    {
+        "actor": "Doris Day",
+        "movie": "Pillow Talk",
+        "state": "Ohio",
+        "year": "1960",
+        "status": "nominee"
+    },
+    {
+        "actor": "Spencer Tracy",
+        "movie": "The Old Man and the Sea",
+        "state": "Wisconsin",
+        "year": "1959",
+        "status": "nominee"
+    },
+    {
+        "actor": "Rosalind Russell",
+        "movie": "Auntie Mame",
+        "state": "Connecticut",
+        "year": "1959",
+        "status": "nominee"
+    },
+    {
+        "actor": "Shirley MacLaine",
+        "movie": "Some Came Running",
+        "state": "Virginia",
+        "year": "1959",
+        "status": "nominee"
+    },
+    {
+        "actor": "Sidney Poitier",
+        "movie": "The Defiant Ones",
+        "state": "Florida",
+        "year": "1959",
+        "status": "nominee"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "Cat on a Hot Tin Roof",
+        "state": "Ohio",
+        "year": "1959",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Hayward",
+        "movie": "I Want to Live!",
+        "state": "New York",
+        "year": "1959",
+        "status": "nominee"
+    },
+    {
+        "actor": "Tony Curtis",
+        "movie": "The Defiant Ones",
+        "state": "New York",
+        "year": "1959",
+        "status": "nominee"
+    },
+    {
+        "actor": "Joanne Woodward",
+        "movie": "The Three Faces of Eve",
+        "state": "Georgia",
+        "year": "1958",
+        "status": "nominee"
+    },
+    {
+        "actor": "Lana Turner",
+        "movie": "Peyton Place",
+        "state": "Idaho",
+        "year": "1958",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marlon Brando",
+        "movie": "Sayonara",
+        "state": "Nebraska",
+        "year": "1958",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anthony Franciosa",
+        "movie": "A Hatful of Rain",
+        "state": "New York",
+        "year": "1958",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Dean",
+        "movie": "Giant",
+        "state": "Indiana",
+        "year": "1957",
+        "status": "nominee"
+    },
+    {
+        "actor": "Carroll Baker",
+        "movie": "Baby Doll",
+        "state": "Pennsylvania",
+        "year": "1957",
+        "status": "nominee"
+    },
+    {
+        "actor": "Rock Hudson",
+        "movie": "Giant",
+        "state": "Illinois",
+        "year": "1957",
+        "status": "nominee"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "The Rainmaker",
+        "state": "Connecticut",
+        "year": "1957",
+        "status": "nominee"
+    },
+    {
+        "actor": "Nancy Kelly",
+        "movie": "The Bad Seed",
+        "state": "Massachusetts",
+        "year": "1957",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Dean",
+        "movie": "East of Eden",
+        "state": "Indiana",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "Spencer Tracy",
+        "movie": "Bad Day at Black Rock",
+        "state": "Wisconsin",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Cagney",
+        "movie": "Love Me or Leave Me",
+        "state": "New York",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ernest Borgnine",
+        "movie": "Marty",
+        "state": "Connecticut",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "Summertime",
+        "state": "Connecticut",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Hayward",
+        "movie": "I'll Cry Tomorrow",
+        "state": "New York",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "Frank Sinatra",
+        "movie": "The Man with the Golden Arm",
+        "state": "New Jersey",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "Eleanor Parker",
+        "movie": "Interrupted Melody",
+        "state": "Ohio",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jennifer Jones",
+        "movie": "Love Is a Many-Splendored Thing",
+        "state": "Oklahoma",
+        "year": "1956",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Wyman",
+        "movie": "Magnificent Obsession",
+        "state": "Missouri",
+        "year": "1955",
+        "status": "nominee"
+    },
+    {
+        "actor": "Grace Kelly",
+        "movie": "The Country Girl",
+        "state": "Pennsylvania",
+        "year": "1955",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marlon Brando",
+        "movie": "On the Waterfront",
+        "state": "Nebraska",
+        "year": "1955",
+        "status": "nominee"
+    },
+    {
+        "actor": "Humphrey Bogart",
+        "movie": "The Caine Mutiny",
+        "state": "New York",
+        "year": "1955",
+        "status": "nominee"
+    },
+    {
+        "actor": "Judy Garland",
+        "movie": "A Star Is Born",
+        "state": "Minnesota",
+        "year": "1955",
+        "status": "nominee"
+    },
+    {
+        "actor": "Dorothy Dandridge",
+        "movie": "Carmen Jones",
+        "state": "Ohio",
+        "year": "1955",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bing Crosby",
+        "movie": "The Country Girl",
+        "state": "Washington",
+        "year": "1955",
+        "status": "nominee"
+    },
+    {
+        "actor": "Montgomery Clift",
+        "movie": "From Here to Eternity",
+        "state": "Nebraska",
+        "year": "1954",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marlon Brando",
+        "movie": "Julius Caesar",
+        "state": "Nebraska",
+        "year": "1954",
+        "status": "nominee"
+    },
+    {
+        "actor": "Burt Lancaster",
+        "movie": "From Here to Eternity",
+        "state": "New York",
+        "year": "1954",
+        "status": "nominee"
+    },
+    {
+        "actor": "Maggie McNamara",
+        "movie": "The Moon Is Blue",
+        "state": "New York",
+        "year": "1954",
+        "status": "nominee"
+    },
+    {
+        "actor": "Ava Gardner",
+        "movie": "Mogambo",
+        "state": "North Carolina",
+        "year": "1954",
+        "status": "nominee"
+    },
+    {
+        "actor": "William Holden",
+        "movie": "Stalag 17",
+        "state": "Illinois",
+        "year": "1954",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marlon Brando",
+        "movie": "Viva Zapata!",
+        "state": "Nebraska",
+        "year": "1953",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bette Davis",
+        "movie": "The Star",
+        "state": "Massachusetts",
+        "year": "1953",
+        "status": "nominee"
+    },
+    {
+        "actor": "Julie Harris",
+        "movie": "The Member of the Wedding",
+        "state": "Michigan",
+        "year": "1953",
+        "status": "nominee"
+    },
+    {
+        "actor": "Shirley Booth",
+        "movie": "Come Back, Little Sheba",
+        "state": "New York",
+        "year": "1953",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Hayward",
+        "movie": "With a Song in My Heart",
+        "state": "New York",
+        "year": "1953",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gary Cooper",
+        "movie": "High Noon",
+        "state": "Montana",
+        "year": "1953",
+        "status": "nominee"
+    },
+    {
+        "actor": "Joan Crawford",
+        "movie": "Sudden Fear",
+        "state": "Texas",
+        "year": "1953",
+        "status": "nominee"
+    },
+    {
+        "actor": "Fredric March",
+        "movie": "Death of a Salesman",
+        "state": "Wisconsin",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jane Wyman",
+        "movie": "The Blue Veil",
+        "state": "Missouri",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Montgomery Clift",
+        "movie": "A Place in the Sun",
+        "state": "Nebraska",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Marlon Brando",
+        "movie": "A Streetcar Named Desire",
+        "state": "Nebraska",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Humphrey Bogart",
+        "movie": "The African Queen",
+        "state": "New York",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Shelley Winters",
+        "movie": "A Place in the Sun",
+        "state": "Illinois",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Arthur Kennedy",
+        "movie": "Bright Victory",
+        "state": "Massachusetts",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "The African Queen",
+        "state": "Connecticut",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Eleanor Parker",
+        "movie": "Detective Story",
+        "state": "Ohio",
+        "year": "1952",
+        "status": "nominee"
+    },
+    {
+        "actor": "Spencer Tracy",
+        "movie": "Father of the Bride",
+        "state": "Wisconsin",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "Bette Davis",
+        "movie": "All About Eve",
+        "state": "Massachusetts",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "James Stewart",
+        "movie": "Harvey",
+        "state": "Pennsylvania",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "Judy Holliday",
+        "movie": "Born Yesterday",
+        "state": "New York",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gloria Swanson",
+        "movie": "Sunset Boulevard",
+        "state": "Illinois",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "Anne Baxter",
+        "movie": "All About Eve",
+        "state": "Indiana",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "Louis Calhern",
+        "movie": "The Magnificent Yankee",
+        "state": "New York",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "Eleanor Parker",
+        "movie": "Caged",
+        "state": "Ohio",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "William Holden",
+        "movie": "Sunset Boulevard",
+        "state": "Illinois",
+        "year": "1951",
+        "status": "nominee"
+    },
+    {
+        "actor": "Gregory Peck",
+        "movie": "Twelve O'Clock High",
+        "state": "California",
+        "year": "1950",
+        "status": "nominee"
+    },
+    {
+        "actor": "Broderick Crawford",
+        "movie": "All the King's Men",
+        "state": "Pennsylvania",
+        "year": "1950",
+        "status": "nominee"
+    },
+    {
+        "actor": "Susan Hayward",
+        "movie": "My Foolish Heart",
+        "state": "New York",
+        "year": "1950",
+        "status": "nominee"
+    },
+    {
+        "actor": "Loretta Young",
+        "movie": "Come to the Stable",
+        "state": "Utah",
+        "year": "1950",
+        "status": "nominee"
+    },
+    {
+        "actor": "John Wayne",
+        "movie": "Sands of Iwo Jima",
+        "state": "Iowa",
+        "year": "1950",
+        "status": "nominee"
+    },
+    {
+        "actor": "Jeanne Crain",
+        "movie": "Pinky",
+        "state": "California",
+        "year": "1950",
+        "status": "nominee"
+    },
+    {
+        "actor": "Frances McDormand",
+        "movie": "Three Billboards Outside Ebbing, Missouri",
+        "state": "Illinois",
+        "year": "2018",
+        "status": "winner"
+    },
+    {
+        "actor": "Emma Stone",
+        "movie": "La La Land",
+        "state": "Arizona",
+        "year": "2017",
+        "status": "winner"
+    },
+    {
+        "actor": "Casey Affleck",
+        "movie": "Manchester by the Sea",
+        "state": "Massachusetts",
+        "year": "2017",
+        "status": "winner"
+    },
+    {
+        "actor": "Leonardo DiCaprio",
+        "movie": "The Revenant",
+        "state": "California",
+        "year": "2016",
+        "status": "winner"
+    },
+    {
+        "actor": "Brie Larson",
+        "movie": "Room",
+        "state": "California",
+        "year": "2016",
+        "status": "winner"
+    },
+    {
+        "actor": "Julianne Moore",
+        "movie": "Still Alice",
+        "state": "North Carolina",
+        "year": "2015",
+        "status": "winner"
+    },
+    {
+        "actor": "Matthew McConaughey",
+        "movie": "Dallas Buyers Club",
+        "state": "Texas",
+        "year": "2014",
+        "status": "winner"
+    },
+    {
+        "actor": "Jennifer Lawrence",
+        "movie": "Silver Linings Playbook",
+        "state": "Kentucky",
+        "year": "2013",
+        "status": "winner"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "The Iron Lady",
+        "state": "New Jersey",
+        "year": "2012",
+        "status": "winner"
+    },
+    {
+        "actor": "Jeff Bridges",
+        "movie": "Crazy Heart",
+        "state": "California",
+        "year": "2010",
+        "status": "winner"
+    },
+    {
+        "actor": "Sandra Bullock",
+        "movie": "The Blind Side",
+        "state": "Virginia",
+        "year": "2010",
+        "status": "winner"
+    },
+    {
+        "actor": "Sean Penn",
+        "movie": "Milk",
+        "state": "California",
+        "year": "2009",
+        "status": "winner"
+    },
+    {
+        "actor": "Forest Whitaker",
+        "movie": "The Last King of Scotland",
+        "state": "Texas",
+        "year": "2007",
+        "status": "winner"
+    },
+    {
+        "actor": "Philip Seymour Hoffman",
+        "movie": "Capote",
+        "state": "New York",
+        "year": "2006",
+        "status": "winner"
+    },
+    {
+        "actor": "Reese Witherspoon",
+        "movie": "Walk the Line",
+        "state": "Louisiana",
+        "year": "2006",
+        "status": "winner"
+    },
+    {
+        "actor": "Jamie Foxx",
+        "movie": "Ray",
+        "state": "Texas",
+        "year": "2005",
+        "status": "winner"
+    },
+    {
+        "actor": "Hilary Swank",
+        "movie": "Million Dollar Baby",
+        "state": "Nebraska",
+        "year": "2005",
+        "status": "winner"
+    },
+    {
+        "actor": "Sean Penn",
+        "movie": "Mystic River",
+        "state": "California",
+        "year": "2004",
+        "status": "winner"
+    },
+    {
+        "actor": "Adrien Brody",
+        "movie": "The Pianist",
+        "state": "New York",
+        "year": "2003",
+        "status": "winner"
+    },
+    {
+        "actor": "Nicole Kidman",
+        "movie": "The Hours",
+        "state": "Hawaii",
+        "year": "2003",
+        "status": "winner"
+    },
+    {
+        "actor": "Halle Berry",
+        "movie": "Monster's Ball",
+        "state": "Ohio",
+        "year": "2002",
+        "status": "winner"
+    },
+    {
+        "actor": "Denzel Washington",
+        "movie": "Training Day",
+        "state": "New York",
+        "year": "2002",
+        "status": "winner"
+    },
+    {
+        "actor": "Julia Roberts",
+        "movie": "Erin Brockovich",
+        "state": "Georgia",
+        "year": "2001",
+        "status": "winner"
+    },
+    {
+        "actor": "Kevin Spacey",
+        "movie": "American Beauty",
+        "state": "New Jersey",
+        "year": "2000",
+        "status": "winner"
+    },
+    {
+        "actor": "Hilary Swank",
+        "movie": "Boys Don't Cry",
+        "state": "Nebraska",
+        "year": "2000",
+        "status": "winner"
+    },
+    {
+        "actor": "Gwyneth Paltrow",
+        "movie": "Shakespeare in Love",
+        "state": "California",
+        "year": "1999",
+        "status": "winner"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "As Good as It Gets",
+        "state": "New Jersey",
+        "year": "1998",
+        "status": "winner"
+    },
+    {
+        "actor": "Helen Hunt",
+        "movie": "As Good as It Gets",
+        "state": "California",
+        "year": "1998",
+        "status": "winner"
+    },
+    {
+        "actor": "Frances McDormand",
+        "movie": "Fargo",
+        "state": "Illinois",
+        "year": "1997",
+        "status": "winner"
+    },
+    {
+        "actor": "Nicolas Cage",
+        "movie": "Leaving Las Vegas",
+        "state": "California",
+        "year": "1996",
+        "status": "winner"
+    },
+    {
+        "actor": "Susan Sarandon",
+        "movie": "Dead Man Walking",
+        "state": "New York",
+        "year": "1996",
+        "status": "winner"
+    },
+    {
+        "actor": "Tom Hanks",
+        "movie": "Forrest Gump",
+        "state": "California",
+        "year": "1995",
+        "status": "winner"
+    },
+    {
+        "actor": "Jessica Lange",
+        "movie": "Blue Sky",
+        "state": "Minnesota",
+        "year": "1995",
+        "status": "winner"
+    },
+    {
+        "actor": "Tom Hanks",
+        "movie": "Philadelphia",
+        "state": "California",
+        "year": "1994",
+        "status": "winner"
+    },
+    {
+        "actor": "Holly Hunter",
+        "movie": "The Piano",
+        "state": "Georgia",
+        "year": "1994",
+        "status": "winner"
+    },
+    {
+        "actor": "Al Pacino",
+        "movie": "Scent of a Woman",
+        "state": "New York",
+        "year": "1993",
+        "status": "winner"
+    },
+    {
+        "actor": "Jodie Foster",
+        "movie": "The Silence of the Lambs",
+        "state": "California",
+        "year": "1992",
+        "status": "winner"
+    },
+    {
+        "actor": "Kathy Bates",
+        "movie": "Misery",
+        "state": "Tennessee",
+        "year": "1991",
+        "status": "winner"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "Rain Man",
+        "state": "California",
+        "year": "1989",
+        "status": "winner"
+    },
+    {
+        "actor": "Jodie Foster",
+        "movie": "The Accused",
+        "state": "California",
+        "year": "1989",
+        "status": "winner"
+    },
+    {
+        "actor": "Cher",
+        "movie": "Moonstruck",
+        "state": "California",
+        "year": "1988",
+        "status": "winner"
+    },
+    {
+        "actor": "Michael Douglas",
+        "movie": "Wall Street",
+        "state": "New Jersey",
+        "year": "1988",
+        "status": "winner"
+    },
+    {
+        "actor": "Paul Newman",
+        "movie": "The Color of Money",
+        "state": "Ohio",
+        "year": "1987",
+        "status": "winner"
+    },
+    {
+        "actor": "Marlee Matlin",
+        "movie": "Children of a Lesser God",
+        "state": "Illinois",
+        "year": "1987",
+        "status": "winner"
+    },
+    {
+        "actor": "Geraldine Page",
+        "movie": "The Trip to Bountiful",
+        "state": "Missouri",
+        "year": "1986",
+        "status": "winner"
+    },
+    {
+        "actor": "F. Murray Abraham",
+        "movie": "Amadeus",
+        "state": "Pennsylvania",
+        "year": "1985",
+        "status": "winner"
+    },
+    {
+        "actor": "Sally Field",
+        "movie": "Places in the Heart",
+        "state": "California",
+        "year": "1985",
+        "status": "winner"
+    },
+    {
+        "actor": "Robert Duvall",
+        "movie": "Tender Mercies",
+        "state": "California",
+        "year": "1984",
+        "status": "winner"
+    },
+    {
+        "actor": "Shirley MacLaine",
+        "movie": "Terms of Endearment",
+        "state": "Virginia",
+        "year": "1984",
+        "status": "winner"
+    },
+    {
+        "actor": "Meryl Streep",
+        "movie": "Sophie's Choice",
+        "state": "New Jersey",
+        "year": "1983",
+        "status": "winner"
+    },
+    {
+        "actor": "Henry Fonda",
+        "movie": "On Golden Pond",
+        "state": "Nebraska",
+        "year": "1982",
+        "status": "winner"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "On Golden Pond",
+        "state": "Connecticut",
+        "year": "1982",
+        "status": "winner"
+    },
+    {
+        "actor": "Sissy Spacek",
+        "movie": "Coal Miner's Daughter",
+        "state": "Texas",
+        "year": "1981",
+        "status": "winner"
+    },
+    {
+        "actor": "Robert De Niro",
+        "movie": "Raging Bull",
+        "state": "New York",
+        "year": "1981",
+        "status": "winner"
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "movie": "Kramer vs. Kramer",
+        "state": "California",
+        "year": "1980",
+        "status": "winner"
+    },
+    {
+        "actor": "Sally Field",
+        "movie": "Norma Rae",
+        "state": "California",
+        "year": "1980",
+        "status": "winner"
+    },
+    {
+        "actor": "Jon Voight",
+        "movie": "Coming Home",
+        "state": "New York",
+        "year": "1979",
+        "status": "winner"
+    },
+    {
+        "actor": "Jane Fonda",
+        "movie": "Coming Home",
+        "state": "New York",
+        "year": "1979",
+        "status": "winner"
+    },
+    {
+        "actor": "Richard Dreyfuss",
+        "movie": "The Goodbye Girl",
+        "state": "New York",
+        "year": "1978",
+        "status": "winner"
+    },
+    {
+        "actor": "Diane Keaton",
+        "movie": "Annie Hall",
+        "state": "California",
+        "year": "1978",
+        "status": "winner"
+    },
+    {
+        "actor": "Faye Dunaway",
+        "movie": "Network",
+        "state": "Florida",
+        "year": "1977",
+        "status": "winner"
+    },
+    {
+        "actor": "Jack Nicholson",
+        "movie": "One Flew Over the Cuckoo's Nest",
+        "state": "New Jersey",
+        "year": "1976",
+        "status": "winner"
+    },
+    {
+        "actor": "Louise Fletcher",
+        "movie": "One Flew Over the Cuckoo's Nest",
+        "state": "Alabama",
+        "year": "1976",
+        "status": "winner"
+    },
+    {
+        "actor": "Ellen Burstyn",
+        "movie": "Alice Doesn't Live Here Anymore",
+        "state": "Michigan",
+        "year": "1975",
+        "status": "winner"
+    },
+    {
+        "actor": "Art Carney",
+        "movie": "Harry and Tonto",
+        "state": "New York",
+        "year": "1975",
+        "status": "winner"
+    },
+    {
+        "actor": "Jack Lemmon",
+        "movie": "Save the Tiger",
+        "state": "Massachusetts",
+        "year": "1974",
+        "status": "winner"
+    },
+    {
+        "actor": "Liza Minnelli",
+        "movie": "Cabaret",
+        "state": "California",
+        "year": "1973",
+        "status": "winner"
+    },
+    {
+        "actor": "Marlon Brando",
+        "movie": "The Godfather",
+        "state": "Nebraska",
+        "year": "1973",
+        "status": "winner"
+    },
+    {
+        "actor": "Jane Fonda",
+        "movie": "Klute",
+        "state": "New York",
+        "year": "1972",
+        "status": "winner"
+    },
+    {
+        "actor": "Gene Hackman",
+        "movie": "The French Connection",
+        "state": "California",
+        "year": "1972",
+        "status": "winner"
+    },
+    {
+        "actor": "George C. Scott",
+        "movie": "Patton",
+        "state": "Virginia",
+        "year": "1971",
+        "status": "winner"
+    },
+    {
+        "actor": "John Wayne",
+        "movie": "True Grit",
+        "state": "Iowa",
+        "year": "1970",
+        "status": "winner"
+    },
+    {
+        "actor": "Cliff Robertson",
+        "movie": "Charly",
+        "state": "California",
+        "year": "1969",
+        "status": "winner"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "The Lion in Winter",
+        "state": "Connecticut",
+        "year": "1969",
+        "status": "winner"
+    },
+    {
+        "actor": "Barbra Streisand",
+        "movie": "Funny Girl",
+        "state": "New York",
+        "year": "1969",
+        "status": "winner"
+    },
+    {
+        "actor": "Katharine Hepburn",
+        "movie": "Guess Who's Coming to Dinner",
+        "state": "Connecticut",
+        "year": "1968",
+        "status": "winner"
+    },
+    {
+        "actor": "Rod Steiger",
+        "movie": "In the Heat of the Night",
+        "state": "New York",
+        "year": "1968",
+        "status": "winner"
+    },
+    {
+        "actor": "Lee Marvin",
+        "movie": "Cat Ballou",
+        "state": "New York",
+        "year": "1966",
+        "status": "winner"
+    },
+    {
+        "actor": "Patricia Neal",
+        "movie": "Hud",
+        "state": "Kentucky",
+        "year": "1964",
+        "status": "winner"
+    },
+    {
+        "actor": "Sidney Poitier",
+        "movie": "Lilies of the Field",
+        "state": "Florida",
+        "year": "1964",
+        "status": "winner"
+    },
+    {
+        "actor": "Gregory Peck",
+        "movie": "To Kill a Mockingbird",
+        "state": "California",
+        "year": "1963",
+        "status": "winner"
+    },
+    {
+        "actor": "Anne Bancroft",
+        "movie": "The Miracle Worker",
+        "state": "New York",
+        "year": "1963",
+        "status": "winner"
+    },
+    {
+        "actor": "Burt Lancaster",
+        "movie": "Elmer Gantry",
+        "state": "New York",
+        "year": "1961",
+        "status": "winner"
+    },
+    {
+        "actor": "Charlton Heston",
+        "movie": "Ben-Hur",
+        "state": "Illinois",
+        "year": "1960",
+        "status": "winner"
+    },
+    {
+        "actor": "William Holden",
+        "movie": "Stalag 17",
+        "state": "Illinois",
+        "year": "1954",
+        "status": "winner"
+    },
+    {
+        "actor": "Shirley Booth",
+        "movie": "Come Back, Little Sheba",
+        "state": "New York",
+        "year": "1953",
+        "status": "winner"
+    },
+    {
+        "actor": "Gary Cooper",
+        "movie": "High Noon",
+        "state": "Montana",
+        "year": "1953",
+        "status": "winner"
+    },
+    {
+        "actor": "Humphrey Bogart",
+        "movie": "The African Queen",
+        "state": "New York",
+        "year": "1952",
+        "status": "winner"
+    },
+    {
+        "actor": "Judy Holliday",
+        "movie": "Born Yesterday",
+        "state": "New York",
+        "year": "1951",
+        "status": "winner"
+    },
+    {
+        "actor": "Broderick Crawford",
+        "movie": "All the King's Men",
+        "state": "Pennsylvania",
+        "year": "1950",
+        "status": "winner"
+    }
+]

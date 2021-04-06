@@ -1,0 +1,38 @@
+// Wikidata SPARQL 
+// Query used to extract the nominees(/winners) for the - Academy Award for Best Actor/Actress - from 1950 to 2018
+// https://query.wikidata.org
+
+
+SELECT DISTINCT (?itemLabel AS ?actor) (?awardWorkLabel AS ?movie) (?birthplaceLabel AS ?state) ?year ?status WHERE {
+  VALUES ?award {
+    wd:Q103916
+    wd:Q103618
+  }
+  
+  ?item (wdt:P106/(wdt:P279*)) wd:Q33999;
+    p:P1411 ?awardStatement.                  ##   replace with "p:P166 ?awardStatement." for winners instead of nominees
+  
+  ?awardStatement pq:P805 ?awardItem;
+    ps:P1411 ?award;                          ##   replace with "p:P166 ?award." for winners instead of nominees
+    pq:P1686 ?awardWork.
+  
+  ?awardItem wdt:P585 ?time.
+  BIND(YEAR(?time) AS ?year)
+  FILTER((?year >= 2015 ) && (?year <= 2018 ))
+  
+  ?item (wdt:P19/(wdt:P131*)) ?birthplace.
+  ?birthplace wdt:P31 ?location;
+    wdt:P17 wd:Q30;
+    wdt:P31 wd:Q35657.
+              
+  BIND("nominee" AS ?status)
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "en".
+      ?item rdfs:label ?itemLabel.
+      ?awardWork rdfs:label ?awardWorkLabel.
+      ?birthplace rdfs:label ?birthplaceLabel.
+  }
+}
+
+ORDER BY DESC (?time)
