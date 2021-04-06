@@ -25,4 +25,4 @@ https://lera409.github.io/oscars-usa-map/
 
 
 ### Preview
-<img src="/images/screenshot-1.png" width="500"><img src="/images/screenshot-2.png" width="500">
+<img src="/images/screenshot-1.png"><img src="/images/screenshot-2.png">
